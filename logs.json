@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2026-04-27T11:22:14.132687+05:30",
+    "action": "result_generation",
+    "details": {
+      "column": "YearsExperience",
+      "operation": "max",
+      "result": 13.5
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "current_hash": "d6d046f1722cf9eec17ce6e302bb861566950fa75408e2cbf34bbc80ef531742"
+  },
+  {
+    "timestamp": "2026-04-27T11:22:14.151856+05:30",
+    "action": "computation_start",
+    "details": {
+      "operation": "max",
+      "column": "Salary",
+      "num_values": 35
+    },
+    "previous_hash": "d6d046f1722cf9eec17ce6e302bb861566950fa75408e2cbf34bbc80ef531742",
+    "current_hash": "03328e340e9b95d8999f83804f9b4f24fb3d0f27e4573f9e8bc1b62674a243ba"
+  },
+  {
+    "timestamp": "2026-04-27T11:22:14.169421+05:30",
+    "action": "result_generation",
+    "details": {
+      "column": "Salary",
+      "operation": "max",
+      "result": 139465.0
+    },
+    "previous_hash": "03328e340e9b95d8999f83804f9b4f24fb3d0f27e4573f9e8bc1b62674a243ba",
+    "current_hash": "1f9b99f9b42e9a76fd8fde2844cec9b139effad05b83a3ecc1e494c8f8d42fa5"
+  }
+]
